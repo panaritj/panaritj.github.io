@@ -1,0 +1,8 @@
+baseURL = 'https://.github.io/'
+languageCode = 'en-us'
+title = 'My Engineering Blog'
+theme = 'PaperMod'
+
+[params]
+    defaultTheme = "light" # Forces the white background look
+    ShowReadingTime = true
