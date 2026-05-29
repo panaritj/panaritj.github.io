@@ -8,9 +8,9 @@ theme = 'PaperMod'
     ShowReadingTime = true
 
 [params.homeInfoParams]
-    Title = "Hi, my name is Panarit Jahiri."
+    Title = "About me"
     Content = """
-I have been working with technology in one way or another since I was a kid. For some years, I worked in fully-algorithmic and automated trading of flexible energy systems in electricity markets. Currently, I am based in Berlin, working as an engineer in the AI Core unit at SAP, focusing on Generative AI.
+Hi, my name is Panarit Jahiri. I have been working with technology in one way or another since I was a kid. For some years, I worked in fully-algorithmic and automated trading of flexible energy systems in electricity markets. Currently, I am based in Berlin, working as an engineer in the AI Core unit at SAP, focusing on Generative AI.
 
 This is where I document my thoughts on engineering, "philosophy", complex concepts, and building software. I am all about optimizing my computer workflow. 
 
