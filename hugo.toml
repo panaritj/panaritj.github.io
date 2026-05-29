@@ -7,13 +7,17 @@ theme = 'PaperMod'
     defaultTheme = "light" # Forces the white background look
     ShowReadingTime = true
 
+
 [params.homeInfoParams]
-    Title = "Panarit's Blog"
+    Title = "Hi, my name is Panarit Jahiri."
     Content = """
-    I write. Mostly for myself. It creates clarity.
-    I write. To use vim more.
-    I write. To feel my keyboard.
-    I write. It calms me down. Grounds me.
+    I have been working with technology in one way or another since I was a kid. Currently, I am based in Berlin, working as an engineer in the AI Core unit at SAP, focusing on Generative AI.
+    
+    This is where I document my thoughts on engineering, "philosophy", complex concepts, and building software. I am all about optimizing my computer workflow. 
+    
+    I also do quite a bit of photography on the side. A bit of everything: landscape, street, abstract. You can find my visual work on [Instagram](https://www.instagram.com/panarit.visuals).
+    
+    *Opinions are my own.*
     """
 
 [[menu.main]]
