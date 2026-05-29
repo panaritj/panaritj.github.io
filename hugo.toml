@@ -6,3 +6,18 @@ theme = 'PaperMod'
 [params]
     defaultTheme = "light" # Forces the white background look
     ShowReadingTime = true
+
+[params.homeInfoParams]
+    Title = "Panarit's Blog"
+    Content = """
+    I write. Mostly for myself. It creates clarity.
+    I write. To use vim more.
+    I write. To feel my keyboard.
+    I write. It calms me down. Grounds me.
+    """
+
+[[menu.main]]
+    identifier = "archives"
+    name = "Posts"
+    url = "/archives/"
+    weight = 10
