@@ -1,4 +1,4 @@
-baseURL = 'https://.github.io/'
+baseURL = 'https://panaritj.github.io/'
 languageCode = 'en-us'
 title = "Panarit's blog"
 theme = 'PaperMod'

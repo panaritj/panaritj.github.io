@@ -1,5 +1,5 @@
 +++
-title: "Blog Posts"
-layout: "archives"
-draft: false
+title = "Blog Posts"
+layout = "archives"
+draft = false
 +++
